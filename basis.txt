@@ -1,0 +1,11 @@
+Get Lucky:
+    Easy {
+        Taps: 237
+        Jumps: 33
+        Holds: 8
+    },
+    Hard {
+        Taps: 577
+        Jumps: 37
+        Holds: 70
+    }
